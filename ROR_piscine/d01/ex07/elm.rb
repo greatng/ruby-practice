@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 
+# !/usr/bin/env ruby
+
 def parsing_line
   file = File.open('periodic_table.txt', 'r')
   lines = []

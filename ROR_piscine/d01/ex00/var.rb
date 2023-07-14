@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 
+# !/usr/bin/env ruby
+
 def my_var
   a = 10
   b = '10'

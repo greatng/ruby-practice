@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 
+# !/usr/bin/env ruby
+
 def shorter_way
   file = File.open('numbers.txt', 'r')
 
